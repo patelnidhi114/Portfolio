@@ -2,4 +2,6 @@
 * text=auto
 static/* linguist-vendored
 * linguist-vendored
-*.html linguist-vendored=false
+*.html5 linguist-vendored=false
+*.css3 linguist-vendored=false
+*.bootstrap linguist-vendored=false
