@@ -4,5 +4,5 @@ static/* linguist-vendored
 * linguist-vendored
 *.html .css .bootstrap linguist-vendored=false
 *.css linguist-vendored=false
-*.bootstrap linguist-vendored=false
+
 
